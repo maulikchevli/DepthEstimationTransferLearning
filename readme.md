@@ -13,9 +13,9 @@ DenseDepth uses an encoder-decoder architecture as shown in the figure. _[DenseN
 |--|
 |Results using a fraction of nyu depth dataset v2|
 
-|![result](./img/res.png)|
+|![result](./img/loss.png)|
 |--|
-|Results using more data from nyu depth dataset v2|
+|Learning cruve|
 
 
 ## References
